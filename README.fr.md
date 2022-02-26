@@ -33,7 +33,7 @@ Mettez à jour les références dans README.md avant de soumettre une demande d'
 
 #### produits aquatiques
 
--   [Carpe aigre-douce](./dishes/home-cooking/糖醋鲤鱼/糖醋鲤鱼.md)
+-   [Carpe aigre douce](./dishes/home-cooking/糖醋鲤鱼/糖醋鲤鱼.md)
 -   [huîtres cuites à la vapeur](./dishes/home-cooking/清蒸生蚝.md)
 -   [Bar à la vapeur](./dishes/home-cooking/清蒸鲈鱼/清蒸鲈鱼.md)
 -   [Crevettes bouillies](./dishes/home-cooking/白灼虾/白灼虾.md)
@@ -87,7 +87,7 @@ Mettez à jour les références dans README.md avant de soumettre une demande d'
 -   [salade de concombre](./dishes/home-cooking/凉拌黄瓜.md)
 -   [Pomme de terre râpée aigre-piquante](./dishes/home-cooking/酸辣土豆丝.md)
 -   [Oeufs brouillés aux épinards](./dishes/home-cooking/菠菜炒鸡蛋/菠菜炒鸡蛋.md)
--   [Légumes braisés à l'eau et à l'huile](./dishes/home-cooking/水油焖蔬菜.md)
+-   [水油焖蔬菜](./dishes/home-cooking/水油焖蔬菜.md)
 -   [Vermicelles braisés au chou et au porc](./dishes/home-cooking/白菜猪肉炖粉条.md)
 -   [crème aux œufs](./dishes/home-cooking/鸡蛋羹/鸡蛋羹.md)
 -   [Crème aux œufs au micro-ondes](./dishes/home-cooking/鸡蛋羹/微波炉鸡蛋羹.md)
@@ -117,7 +117,7 @@ Mettez à jour les références dans README.md avant de soumettre une demande d'
 -   [Riz au œufs frits](./dishes/staple/蛋炒饭.md)
 -   [Riz au curry japonais](./dishes/staple/日式咖喱饭/日式咖喱饭.md)
 -   [Crêpes](./dishes/staple/烙饼/烙饼.md)
--   [nouilles instantanées frites](./dishes/staple/炒方便面.md)
+-   [nouilles instantanées sautées](./dishes/staple/炒方便面.md)
 -   [Nouilles Laoganma](./dishes/staple/老干妈拌面.md)
 -   [boulettes de riz gluant](./dishes/staple/醪糟小汤圆.md)
 -   [Nouilles de riz sautées](./dishes/staple/炒河粉.md)
@@ -165,10 +165,10 @@ Mettez à jour les références dans README.md avant de soumettre une demande d'
 ### sauces et autres ingrédients
 
 -   [Huileux Épicé](./dishes/condiment/油泼辣子.md)
--   [蒜香酱油](./dishes/condiment/蒜香酱油.md)
+-   [Sauce soja à l'ail](./dishes/condiment/蒜香酱油.md)
 -   [sauce aigre douce](./dishes/condiment/糖醋汁.md)
 -   [Pâtisserie](./dishes/condiment/油酥.md)
--   [sucre frit](./dishes/condiment/糖色.md)
+-   [couleur bonbon frit](./dishes/condiment/糖色.md)
 -   [Sirop de saccharose](./dishes/condiment/蔗糖糖浆/蔗糖糖浆.md)
 -   [Sauce Kushikatsu](./dishes/condiment/炸串酱料.md)
 
@@ -177,7 +177,7 @@ Mettez à jour les références dans README.md avant de soumettre une demande d'
 -   [tiramisu](./dishes/dessert/提拉米苏/提拉米苏.md)
 -   [Tartelettes aux œufs au four](./dishes/dessert/烤蛋挞/烤蛋挞.md)
 
-## Apprentissage des connaissances avancées
+## apprentissage des connaissances avancées
 
 Si vous avez déjà cuisiné plusieurs des plats ci-dessus, que vous avez déjà commencé à cuisiner et que vous souhaitez acquérir des compétences culinaires plus avancées, veuillez continuer à lire ci-dessous :
 
