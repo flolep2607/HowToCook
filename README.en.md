@@ -123,7 +123,7 @@ Update references in README.md before submitting a Pull Request.
 -   [Fried rice noodles](./dishes/staple/炒河粉.md)
 -   [fried noodles](./dishes/staple/炸酱面.md)
 -   [handmade dumplings](./dishes/staple/手工水饺.md)
--   [麻油拌面](./dishes/staple/麻油拌面.md)
+-   [sesame oil noodles](./dishes/staple/麻油拌面.md)
 -   [pizza crust](./dishes/staple/pizza/披萨饼皮.md)
 -   [Hot Noodles with Sesame Paste](./dishes/staple/热干面.md)
 -   [fried bun](./dishes/staple/炒馍.md)
