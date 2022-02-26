@@ -15,7 +15,7 @@ For the problems found, you can directly modify and submit a Pull request.
 When writing a new recipe, copy and modify an existing recipe template:[Sample dish](https://github.com/Anduin2017/HowToCook/blob/master/dishes/template/%E7%A4%BA%E4%BE%8B%E8%8F%9C/%E7%A4%BA%E4%BE%8B%E8%8F%9C.md?plain=1).
 Update references in README.md before submitting a Pull Request.
 
-## 做菜之前
+## before cooking
 
 -   [Sourcing ingredients, preparing the kitchen](./tips/厨房准备.md)
 -   [Learn to fry and fry](./tips/learn/炒与煎.md)
@@ -39,7 +39,7 @@ Update references in README.md before submitting a Pull Request.
 -   [Boiled shrimp](./dishes/home-cooking/白灼虾/白灼虾.md)
 -   [Fried Crab Curry](./dishes/home-cooking/咖喱炒蟹.md)
 -   [Braised Fish Head](./dishes/home-cooking/红烧鱼头.md)
--   [Braised Carp](./dishes/home-cooking/红烧鲤鱼.md)
+-   [Braised carp](./dishes/home-cooking/红烧鲤鱼.md)
 -   [Butter Fried Shrimp](./dishes/home-cooking/黄油煎虾/黄油煎虾.md)
 -   [grilled fish](./dishes/home-cooking/混合烤鱼/烤鱼.md)
 -   [Braised tofu with bream](./dishes/home-cooking/鳊鱼炖豆腐/鳊鱼炖豆腐.md)
@@ -56,7 +56,7 @@ Update references in README.md before submitting a Pull Request.
 -   [Fragrant dried pork](./dishes/home-cooking/香干肉丝.md)
 -   [Fried Pork with Dried Celery](./dishes/home-cooking/香干芹菜炒肉/香干芹菜炒肉.md)
 -   [Stir-fried Beef with Peppers](./dishes/home-cooking/尖椒炒牛肉.md)
--   [Stir-fried Pork](./dishes/home-cooking/小炒肉.md)
+-   [Fried Pork](./dishes/home-cooking/小炒肉.md)
 -   [Cola Chicken Wings](./dishes/home-cooking/可乐鸡翅.md)
 -   [Fried Pork with Onions](./dishes/home-cooking/洋葱炒猪肉.md)
 -   [sauce beef](./dishes/home-cooking/酱牛肉/酱牛肉.md)
@@ -94,7 +94,7 @@ Update references in README.md before submitting a Pull Request.
 -   [baby dish in soup](./dishes/home-cooking/上汤娃娃菜/上汤娃娃菜.md)
 -   [Stir-fried vegetables](./dishes/home-cooking/炒青菜.md)
 -   [Tomatoes with sugar](./dishes/home-cooking/糖拌西红柿/糖拌西红柿.md)
--   [红烧茄子](./dishes/home-cooking/红烧茄子.md)
+-   [Braised Eggplant](./dishes/home-cooking/红烧茄子.md)
 -   [jelly](./dishes/home-cooking/凉粉/凉粉.md)
 -   [Fish-flavored eggplant](./dishes/home-cooking/鱼香茄子/鱼香茄子.md)
 
@@ -158,18 +158,18 @@ Update references in README.md before submitting a Pull Request.
 -   [Passion Fruit Orange Special](./dishes/drink/百香果橙子特调/百香果橙子特调.md)
 -   [poplar nectar](./dishes/drink/杨枝甘露.md)
 -   [Kim Fizz](./dishes/drink/金菲士.md)
--   [Gin and Tonic](./dishes/drink/金汤力.md)
+-   [Gin & Tonic](./dishes/drink/金汤力.md)
 -   [milk tea](./dishes/drink/奶茶.md)
 -   [B52 bomber](./dishes/drink/B52轰炸机.md)
 
 ### sauces and other ingredients
 
--   [Oily Spicy](./dishes/condiment/油泼辣子.md)
+-   [oily spicy](./dishes/condiment/油泼辣子.md)
 -   [Garlic Soy Sauce](./dishes/condiment/蒜香酱油.md)
 -   [sweet and sour sauce](./dishes/condiment/糖醋汁.md)
 -   [pastry](./dishes/condiment/油酥.md)
 -   [fried candy color](./dishes/condiment/糖色.md)
--   [Sucrose Syrup](./dishes/condiment/蔗糖糖浆/蔗糖糖浆.md)
+-   [sucrose syrup](./dishes/condiment/蔗糖糖浆/蔗糖糖浆.md)
 -   [Kushikatsu sauce](./dishes/condiment/炸串酱料.md)
 
 ### Dessert
