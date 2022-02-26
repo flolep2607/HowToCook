@@ -88,7 +88,7 @@ Update references in README.md before submitting a Pull Request.
 -   [Hot and sour shredded potato](./dishes/home-cooking/酸辣土豆丝.md)
 -   [Scrambled Eggs with Spinach](./dishes/home-cooking/菠菜炒鸡蛋/菠菜炒鸡蛋.md)
 -   [Braised Vegetables in Water and Oil](./dishes/home-cooking/水油焖蔬菜.md)
--   [Braised vermicelli with cabbage and pork](./dishes/home-cooking/白菜猪肉炖粉条.md)
+-   [白菜猪肉炖粉条](./dishes/home-cooking/白菜猪肉炖粉条.md)
 -   [egg custard](./dishes/home-cooking/鸡蛋羹/鸡蛋羹.md)
 -   [Microwave Egg Custard](./dishes/home-cooking/鸡蛋羹/微波炉鸡蛋羹.md)
 -   [baby dish in soup](./dishes/home-cooking/上汤娃娃菜/上汤娃娃菜.md)
