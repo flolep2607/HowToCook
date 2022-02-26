@@ -165,7 +165,7 @@ Mettez à jour les références dans README.md avant de soumettre une demande d'
 ### sauces et autres ingrédients
 
 -   [Huileux Épicé](./dishes/condiment/油泼辣子.md)
--   [Sauce soja à l'ail](./dishes/condiment/蒜香酱油.md)
+-   [蒜香酱油](./dishes/condiment/蒜香酱油.md)
 -   [sauce aigre douce](./dishes/condiment/糖醋汁.md)
 -   [Pâtisserie](./dishes/condiment/油酥.md)
 -   [sucre frit](./dishes/condiment/糖色.md)
