@@ -1,187 +1,187 @@
-# 程序员做饭指南
+# Programmer's Guide to Cooking
 
-[![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/Anduin2017/HowToCook/Continuous%20Integration/master)](https://github.com/Anduin2017/HowToCook/actions/workflows/ci.yml)
+[![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/Anduin2017/HowToCook/Continuous%20Integration/master)](https://github.com/Anduin2017/HowToCook /actions/workflows/ci.yml)
 [![License](https://img.shields.io/github/license/Anduin2017/HowToCook)](./LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/Anduin2017/HowToCook)](https://github.com/Anduin2017/HowToCook/graphs/contributors)
 
-最近在家隔离，出不了门。只能宅在家做饭了。作为程序员，我偶尔在网上找找菜谱和做法。但是这些菜谱往往写法千奇百怪，经常中间莫名出来一些材料。对于习惯了形式语言的程序员来说极其不友好。
+I've been quarantined at home recently and can't go out. Just stay home and cook. As a programmer, I occasionally look for recipes and how-tos online. However, these recipes are often written in a variety of strange ways, and some materials are often inexplicable in the middle. Extremely unfriendly to programmers accustomed to formal languages.
 
-所以，我计划自己搜寻菜谱和并结合实际做菜的经验，准备用更清晰精准的描述来整理常见菜的做法，以方便程序员在家做饭。
+Therefore, I plan to search for recipes by myself and combine the actual cooking experience to prepare the practice of common dishes with clearer and more accurate descriptions, so as to facilitate programmers to cook at home.
 
-同样，我希望它是一个由社区驱动和维护的开源项目，使更多人能够一起做一个有趣的仓库。所以非常欢迎大家贡献它~
+Again, I want it to be an open source project driven and maintained by the community, enabling more people to make a fun repository together. So everyone is very welcome to contribute it~
 
-## 如何贡献
+## How to contribute
 
-针对发现的问题，直接修改并提交 Pull request 即可。
+For the problems found, you can directly modify and submit a Pull request.
 
-在写新菜谱时，请复制并修改已有的菜谱模板: [示例菜](https://github.com/Anduin2017/HowToCook/blob/master/dishes/template/%E7%A4%BA%E4%BE%8B%E8%8F%9C/%E7%A4%BA%E4%BE%8B%E8%8F%9C.md?plain=1)。
-在提交 Pull Request 前更新一下 README.md 里的引用。
+When writing a new recipe, please copy and modify the existing recipe template: [Sample Dish](https://github.com/Anduin2017/HowToCook/blob/master/dishes/template/%E7%A4%BA%E4% BE%8B%E8%8F%9C/%E7%A4%BA%E4%BE%8B%E8%8F%9C.md?plain=1).
+Update references in README.md before submitting a Pull Request.
 
-## 做菜之前
+## Before cooking
 
-* [采购原料，准备厨房](./tips/厨房准备.md)
-* [学习炒与煎炸](./tips/learn/炒与煎.md)
-* [学习煮](./tips/learn/煮.md)
-* [学习蒸](./tips/learn/蒸.md)
-* [学习使用压力锅](./tips/learn/高压力锅.md)
-* [学习焯水](./tips/learn/焯水.md)
-* [学习腌（肉）](./tips/learn/学习腌.md)
-* [了解食品安全常识](./tips/learn/食品安全.md)
-* [如何选择吃什么？](./tips/如何选择现在吃什么.md)
+* [Purchase ingredients, prepare kitchen](./tips/kitchen preparation.md)
+* [Learn to fry and fry](./tips/learn/fry and fry.md)
+* [Learn to cook](./tips/learn/cook.md)
+* [Learn to steam](./tips/learn/steam.md)
+* [Learn to use a pressure cooker](./tips/learn/high pressure cooker.md)
+* [Learn to boil water](./tips/learn/ boiled water.md)
+* [Learn to pickle (meat)](./tips/learn/learn to pickle.md)
+* [Understand food safety common sense](./tips/learn/food safety.md)
+* [How to choose what to eat? ](./tips/How to choose what to eat now.md)
 
-## 菜谱
+## recipes
 
-### 家常菜
+### Home cooking
 
-#### 水产
+#### Aquatic Products
 
-* [糖醋鲤鱼](./dishes/home-cooking/糖醋鲤鱼/糖醋鲤鱼.md)
-* [清蒸生蚝](./dishes/home-cooking/清蒸生蚝.md)
-* [清蒸鲈鱼](./dishes/home-cooking/清蒸鲈鱼/清蒸鲈鱼.md)
-* [白灼虾](./dishes/home-cooking/白灼虾/白灼虾.md)
-* [咖喱炒蟹](./dishes/home-cooking/咖喱炒蟹.md)
-* [红烧鱼头](./dishes/home-cooking/红烧鱼头.md)
-* [红烧鲤鱼](./dishes/home-cooking/红烧鲤鱼.md)
-* [黄油煎虾](./dishes/home-cooking/黄油煎虾/黄油煎虾.md)
-* [烤鱼](./dishes/home-cooking/混合烤鱼/烤鱼.md)
-* [鳊鱼炖豆腐](./dishes/home-cooking/鳊鱼炖豆腐/鳊鱼炖豆腐.md)
+* [Sweet and Sour Carp](./dishes/home-cooking/Sweet and Sour Carp/Sweet and Sour Carp.md)
+* [Steamed oysters](./dishes/home-cooking/steamed oysters.md)
+* [Steamed Sea Bass](./dishes/home-cooking/Steamed Sea Bass/Steamed Sea Bass.md)
+* [Boiled Shrimp](./dishes/home-cooking/Boiled Shrimp/Boiled Shrimp.md)
+* [Curry Fried Crab](./dishes/home-cooking/Curry Fried Crab.md)
+* [Braised Fish Head](./dishes/home-cooking/Braised Fish Head.md)
+* [Braised Carp](./dishes/home-cooking/Braised Carp.md)
+* [Butter Fried Shrimp](./dishes/home-cooking/Butter Fried Shrimp/Butter Fried Shrimp.md)
+* [Grilled Fish](./dishes/home-cooking/Mixed Grilled Fish/Grilled Fish.md)
+* [Braised tofu with bream](./dishes/home-cooking/Braised tofu with bream/Braised tofu with bream.md)
 
-#### 荤菜
+#### meat dishes
 
-* [水煮肉片](./dishes/home-cooking/水煮肉片.md)
-* [鱼香肉丝](./dishes/home-cooking/鱼香肉丝.md)
-* [回锅肉](./dishes/home-cooking/回锅肉.md)
-* [糖醋里脊](./dishes/home-cooking/糖醋里脊.md)
-* [西红柿牛腩](./dishes/home-cooking/西红柿牛腩/西红柿牛腩.md)
-* [宫保鸡丁](./dishes/home-cooking/宫保鸡丁/宫保鸡丁.md)
-* [麻辣香锅](./dishes/home-cooking/麻辣香锅.md)
-* [香干肉丝](./dishes/home-cooking/香干肉丝.md)
-* [香干芹菜炒肉](./dishes/home-cooking/香干芹菜炒肉/香干芹菜炒肉.md)
-* [尖椒炒牛肉](./dishes/home-cooking/尖椒炒牛肉.md)
-* [小炒肉](./dishes/home-cooking/小炒肉.md)
-* [可乐鸡翅](./dishes/home-cooking/可乐鸡翅.md)
-* [洋葱炒猪肉](./dishes/home-cooking/洋葱炒猪肉.md)
-* [酱牛肉](./dishes/home-cooking/酱牛肉/酱牛肉.md)
-* [血浆鸭](./dishes/home-cooking/血浆鸭/血浆鸭.md)
-* [黄瓜炒肉](./dishes/home-cooking/黄瓜炒肉.md)
-* [冷吃兔](./dishes/home-cooking/冷吃兔.md)
-* [香菇滑鸡](./dishes/home-cooking/香菇滑鸡/香菇滑鸡.md)
-* [西红柿土豆炖牛肉](./dishes/soup/西红柿土豆炖牛肉/西红柿土豆炖牛肉(腩).md)
-* [老式锅包肉](./dishes/home-cooking/老式锅包肉/老式锅包肉.md)
-* [小炒黄牛肉](./dishes/home-cooking/小炒黄牛肉/小炒黄牛肉.md)
-* [萝卜炖羊排](./dishes/home-cooking/萝卜炖羊排.md)
-* [红烧肉](./dishes/home-cooking/红烧肉/简易红烧肉.md)
-* [南派红烧肉](./dishes/home-cooking/红烧肉/南派红烧肉.md)
-* [鱼香茄子](./dishes/home-cooking/鱼香茄子/鱼香茄子.md)
-* [咕噜肉](./dishes/home-cooking/咕噜肉.md)
-* [孜然牛肉](./dishes/home-cooking/孜然牛肉.md)
-* [榄菜肉末四季豆](./dishes/home-cooking/榄菜肉末四季豆/榄菜肉末四季豆.md)
-* [红烧猪蹄](./dishes/home-cooking/红烧猪蹄/红烧猪蹄.md)
-* [口水鸡](./dishes/home-cooking/口水鸡/口水鸡.md)
+* [Boiled Pork Slices](./dishes/home-cooking/Boiled Pork Slices.md)
+* [Fish Fragrant Pork](./dishes/home-cooking/Fish Fragrant Pork.md)
+* [Twice-cooked meat](./dishes/home-cooking/double-cooked meat.md)
+* [Sweet and Sour Tenderloin](./dishes/home-cooking/Sweet and Sour Tenderloin.md)
+* [Tomato brisket](./dishes/home-cooking/tomato brisket/tomato brisket.md)
+* [Kung Pao Chicken](./dishes/home-cooking/Kung Pao Chicken/Kung Pao Chicken.md)
+* [Spicy Pot](./dishes/home-cooking/Spicy Pot.md)
+* [Fragrant Dried Pork](./dishes/home-cooking/Fragrant Dried Pork.md)
+* [Fried pork with celery](./dishes/home-cooking/Fried pork with celery/Fried pork with celery.md)
+* [Fried Beef with Peppers](./dishes/home-cooking/Fried Beef with Peppers.md)
+* [Small Fried Pork](./dishes/home-cooking/Small Fried Pork.md)
+* [Coke Chicken Wings](./dishes/home-cooking/Coke Chicken Wings.md)
+* [Fried Pork with Onions](./dishes/home-cooking/Fried Pork with Onions.md)
+* [Sauce beef](./dishes/home-cooking/sauce beef/sauce beef.md)
+* [Plasma Duck](./dishes/home-cooking/Plasma Duck/Plasma Duck.md)
+* [Cucumber Fried Pork](./dishes/home-cooking/Cucumber Fried Pork.md)
+* [Cold Rabbit](./dishes/home-cooking/Cold Rabbit.md)
+* [Mushroom Slippery Chicken](./dishes/home-cooking/Mushroom Slippery Chicken/Mushroom Slippery Chicken.md)
+* [Beef Stew with Tomatoes and Potatoes](./dishes/soup/Beef Stew with Tomatoes and Potatoes/Beef Stew with Tomatoes and Potatoes(Belly).md)
+* [Old-fashioned pot meat](./dishes/home-cooking/Old-fashioned pot-wrapped meat/Old-fashioned pot-wrapped meat.md)
+* [Small fried yellow beef](./dishes/home-cooking/Small fried yellow beef/Small fried yellow beef.md)
+* [Braised Lamb Chops with Radishes](./dishes/home-cooking/ Braised Lamb Chops with Radishes.md)
+* [Braised Pork](./dishes/home-cooking/Braised Pork/Simple Braised Pork.md)
+* [Southern style braised pork](./dishes/home-cooking/braised pork/Southern style braised pork.md)
+* [Fish-flavored eggplant](./dishes/home-cooking/Fish-flavored eggplant/Fish-flavored eggplant.md)
+* [Sweet and Sweet Pork](./dishes/home-cooking/Sweet and Sweet Pork.md)
+* [Beef Cumin](./dishes/home-cooking/Beef Cumin.md)
+* [Lan Cai Minced Meat Green Beans](./dishes/home-cooking/Lan Cai Minced Meat Green Beans/Lan Cai Minced Meat Green Beans.md)
+* [Braised Pig Trotters](./dishes/home-cooking/Braised Pig Trotters/Braised Pig Trotters.md)
+* [Dishes Chicken](./dishes/home-cooking/saliva chicken/saliva chicken.md)
 
-#### 素菜
+#### Vegetarian
 
-* [西红柿炒鸡蛋](./dishes/home-cooking/西红柿炒鸡蛋.md)
-* [地三鲜](./dishes/home-cooking/地三鲜.md)
-* [葱煎豆腐](./dishes/home-cooking/葱煎豆腐.md)
-* [茄子炖土豆](./dishes/home-cooking/茄子炖土豆.md)
-* [辣椒炒肉](./dishes/home-cooking/辣椒炒肉.md)
-* [凉拌黄瓜](./dishes/home-cooking/凉拌黄瓜.md)
-* [酸辣土豆丝](./dishes/home-cooking/酸辣土豆丝.md)
-* [菠菜炒鸡蛋](./dishes/home-cooking/菠菜炒鸡蛋/菠菜炒鸡蛋.md)
-* [水油焖蔬菜](./dishes/home-cooking/水油焖蔬菜.md)
-* [白菜猪肉炖粉条](./dishes/home-cooking/白菜猪肉炖粉条.md)
-* [鸡蛋羹](./dishes/home-cooking/鸡蛋羹/鸡蛋羹.md)
-* [微波炉鸡蛋羹](./dishes/home-cooking/鸡蛋羹/微波炉鸡蛋羹.md)
-* [上汤娃娃菜](./dishes/home-cooking/上汤娃娃菜/上汤娃娃菜.md)
-* [炒青菜](./dishes/home-cooking/炒青菜.md)
-* [糖拌西红柿](./dishes/home-cooking/糖拌西红柿/糖拌西红柿.md)
-* [红烧茄子](./dishes/home-cooking/红烧茄子.md)
-* [凉粉](./dishes/home-cooking/凉粉/凉粉.md)
-* [鱼香茄子](./dishes/home-cooking/鱼香茄子/鱼香茄子.md)
+* [Tomato Scrambled Eggs](./dishes/home-cooking/Tomato Scrambled Eggs.md)
+* [Disanxian](./dishes/home-cooking/Disanxian.md)
+* [Scallion Fried Tofu](./dishes/home-cooking/Scallion Fried Tofu.md)
+* [Boiled Potatoes with Eggplant](./dishes/home-cooking/Boiled Potatoes with Eggplant.md)
+* [Chilli Fried Pork](./dishes/home-cooking/Chilli Fried Pork.md)
+* [Cucumber Salad](./dishes/home-cooking/Cucumber Salad.md)
+* [Hot and Sour Potato Shreds](./dishes/home-cooking/Sour and Spicy Potato Shreds.md)
+* [Spinach scrambled eggs](./dishes/home-cooking/spinach scrambled eggs/spinach scrambled eggs.md)
+* [Boiled Vegetables in Water and Oil](./dishes/home-cooking/Boiled Vegetables in Water and Oil.md)
+* [Braised vermicelli with cabbage and pork](./dishes/home-cooking/Braised vermicelli with cabbage and pork.md)
+* [Egg custard](./dishes/home-cooking/egg custard/egg custard.md)
+* [Microwave egg custard](./dishes/home-cooking/egg custard/microwave egg custard.md)
+* [Hot Soup Baby Vegetable](./dishes/home-cooking/Hot Soup Baby Vegetable/Hot Soup Baby Vegetable.md)
+* [Fried Vegetables](./dishes/home-cooking/Fried Vegetables.md)
+* [Tomato mixed with sugar](./dishes/home-cooking/Tomato mixed with sugar/Tomato mixed with sugar.md)
+* [Braised Eggplant](./dishes/home-cooking/Braised Eggplant.md)
+* [jelly](./dishes/home-cooking/jelly/jelly.md)
+* [Fish-flavored eggplant](./dishes/home-cooking/Fish-flavored eggplant/Fish-flavored eggplant.md)
 
-### 早餐
+### breakfast
 
-* [太阳蛋](./dishes/breakfast/太阳蛋.md)
-* [美式炒蛋](./dishes/breakfast/美式炒蛋.md)
-* [牛奶燕麦](./dishes/breakfast/牛奶燕麦.md)
-* [果酱吐司](./dishes/breakfast/吐司果酱.md)
-* [溏心蛋](./dishes/breakfast/溏心蛋.md)
-* [茶叶蛋](./dishes/breakfast/茶叶蛋.md)
-* [水煮玉米](./dishes/breakfast/水煮玉米.md)
-* [微波炉蛋糕](./dishes/breakfast/微波炉蛋糕.md)
-* [茶叶蛋](./dishes/breakfast/茶叶蛋.md)
-* [蒸花卷](./dishes/breakfast/蒸花卷.md)
+* [Sun Egg](./dishes/breakfast/Sun Egg.md)
+* [American Fried Eggs](./dishes/breakfast/American Fried Eggs.md)
+* [Milk Oats](./dishes/breakfast/Milk Oats.md)
+* [Jam Toast](./dishes/breakfast/Jam Toast.md)
+* [Loose Egg](./dishes/breakfast/Loose Egg.md)
+* [tea egg](./dishes/breakfast/tea egg.md)
+* [Boiled Corn](./dishes/breakfast/Boiled Corn.md)
+* [Microwave Cake](./dishes/breakfast/Microwave Cake.md)
+* [tea egg](./dishes/breakfast/tea egg.md)
+* [Steamed rolls](./dishes/breakfast/steamed rolls.md)
 
-### 主食
+### Staples
 
-* [米饭](./dishes/staple/米饭/米饭.md)
-* [蛋炒饭](./dishes/staple/蛋炒饭.md)
-* [日式咖喱饭](./dishes/staple/日式咖喱饭/日式咖喱饭.md)
-* [烙饼](./dishes/staple/烙饼/烙饼.md)
-* [炒方便面](./dishes/staple/炒方便面.md)
-* [老干妈拌面](./dishes/staple/老干妈拌面.md)
-* [醪糟小汤圆](./dishes/staple/醪糟小汤圆.md)
-* [炒河粉](./dishes/staple/炒河粉.md)
-* [炸酱面](./dishes/staple/炸酱面.md)
-* [手工水饺](./dishes/staple/手工水饺.md)
-* [麻油拌面](./dishes/staple/麻油拌面.md)
-* [披萨饼皮](./dishes/staple/pizza/披萨饼皮.md)
-* [热干面](./dishes/staple/热干面.md)
-* [炒馍](./dishes/staple/炒馍.md)
-* [煮泡面加蛋](./dishes/staple/煮泡面加蛋.md)
-* [老友猪肉粉](./dishes/staple/老友猪肉粉/老友猪肉粉.md)
-* [微波炉腊肠煲仔饭](./dishes/staple/微波炉腊肠煲仔饭/微波炉腊肠煲仔饭.md)
-* [麻辣减脂荞麦面](./dishes/staple/麻辣减脂荞麦面.md)
+* [rice](./dishes/staple/rice/rice.md)
+* [Egg Fried Rice](./dishes/staple/Egg Fried Rice.md)
+* [Japanese curry rice](./dishes/staple/Japanese curry rice/Japanese curry rice.md)
+* [pancake](./dishes/staple/pancake/pancake.md)
+* [Fried instant noodles](./dishes/staple/fried instant noodles.md)
+* [Laoganma Noodles](./dishes/staple/Laoganma Noodles.md)
+* [Mixed Rice Dumplings](./dishes/staple/mashed rice dumplings.md)
+* [Fried rice noodles](./dishes/staple/fried rice noodles.md)
+* [jajangmian](./dishes/staple/jajangmian.md)
+* [handmade dumplings](./dishes/staple/handmade dumplings.md)
+* [sesame oil noodles](./dishes/staple/sesame oil noodles.md)
+* [pizza crust](./dishes/staple/pizza/pizza crust.md)
+* [Hot Dry Noodles](./dishes/staple/Hot Dry Noodles.md)
+* [Fried buns](./dishes/staple/fried buns.md)
+* [Boiled noodles with eggs](./dishes/staple/Boiled noodles with eggs.md)
+* [Old Friends Pork Noodles](./dishes/staple/Old Friends Pork Noodles/Old Friends Pork Noodles.md)
+* [Microwave Sausage Claypot Rice](./dishes/staple/Microwave Sausage Claypot Rice/Microwave Sausage Claypot Rice.md)
+* [Spicy and fat-reducing soba](./dishes/staple/spicy and fat-reducing soba.md)
 
-### 半成品加工
+### Semi-finished product processing
 
-* [速冻汤圆](./dishes/semi-finished/速冻汤圆/速冻汤圆.md)
-* [懒人蛋挞](./dishes/semi-finished/懒人蛋挞/懒人蛋挞.md)
-* [速冻水饺](./dishes/semi-finished/速冻水饺.md)
-* [速冻馄饨](./dishes/semi-finished/速冻馄饨.md)
-* [凉皮](./dishes/semi-finished/凉皮.md)
+* [Quick-frozen glutinous rice balls](./dishes/semi-finished/Quick-frozen glutinous rice balls/Quick-frozen glutinous rice balls.md)
+* [Lazy Egg Tart](./dishes/semi-finished/Lazy Egg Tart/Lazy Egg Tart.md)
+* [Frozen Dumplings](./dishes/semi-finished/Frozen Dumplings.md)
+* [Frozen Wonton](./dishes/semi-finished/Frozen Wonton.md)
+* [Liangpi](./dishes/semi-finished/liangpi.md)
 
-### 汤与粥
+### Soup and Porridge
 
-* [米粥](./dishes/soup/米粥.md)
-* [皮蛋瘦肉粥](./dishes/soup/皮蛋瘦肉粥.md)
-* [西红柿鸡蛋汤](./dishes/soup/西红柿鸡蛋汤.md)
-* [金针菇汤](./dishes/soup/金针菇汤.md)
-* [罗宋汤](./dishes/soup/罗宋汤.md)
-* [昂刺鱼豆腐汤](./dishes/soup/昂刺鱼豆腐汤/昂刺鱼豆腐汤.md)
-* [紫菜蛋花汤](./dishes/soup/紫菜蛋花汤.md)
-* [菌菇炖乳鸽](./dishes/soup/菌菇炖乳鸽/菌菇炖乳鸽.md)
+* [rice porridge](./dishes/soup/rice porridge.md)
+* [Preserved Egg Lean Meat Porridge](./dishes/soup/Preserved Egg Lean Meat Porridge.md)
+* [Tomato and Egg Soup](./dishes/soup/Tomato and Egg Soup.md)
+* [Enoki Mushroom Soup](./dishes/soup/Enoki Mushroom Soup.md)
+* [Borsch Soup](./dishes/soup/Borsch Soup.md)
+* [Angling fish tofu soup](./dishes/soup/Angling fish tofu soup/Angling fish tofu soup.md)
+* [Seaweed Egg Drop Soup](./dishes/soup/Seaweed Egg Drop Soup.md)
+* [Mushroom Stewed Pigeon](./dishes/soup/Mushroom Stewed Pigeon/Mushroom Stewed Pigeon.md)
 
-### 饮料
+### drinks
 
-* [酸梅汁(从半成品)](./dishes/drink/酸梅汁.md)
-* [酸梅汤(从原材料)](./dishes/drink/酸梅汤/酸梅汤.md)
-* [百香果橙子特调](./dishes/drink/百香果橙子特调/百香果橙子特调.md)
-* [杨枝甘露](./dishes/drink/杨枝甘露.md)
-* [金菲士](./dishes/drink/金菲士.md)
-* [金汤力](./dishes/drink/金汤力.md)
-* [奶茶](./dishes/drink/奶茶.md)
-* [B52轰炸机](./dishes/drink/B52轰炸机.md)
+* [Plum juice (from semi-finished product)](./dishes/drink/Plum juice.md)
+* [Sour plum soup (from raw materials)](./dishes/drink/sour plum soup/sour plum soup.md)
+* [Passion fruit orange special note](./dishes/drink/passion fruit orange special note/passion fruit orange special note.md)
+* [Yangzhi Ganlu](./dishes/drink/ Yangzhi Ganlu.md)
+* [Golden Fizz](./dishes/drink/Golden Fizz.md)
+* [Gin & Tonic](./dishes/drink/Gin & Tonic.md)
+* [Milk Tea](./dishes/drink/Milk Tea.md)
+* [B52Bomber](./dishes/drink/B52Bomber.md)
 
-### 酱料和其它材料
+### Sauces and other ingredients
 
-* [油泼辣子](./dishes/condiment/油泼辣子.md)
-* [蒜香酱油](./dishes/condiment/蒜香酱油.md)
-* [糖醋汁](./dishes/condiment/糖醋汁.md)
-* [油酥](./dishes/condiment/油酥.md)
-* [炒糖色](./dishes/condiment/糖色.md)
-* [蔗糖糖浆](./dishes/condiment/蔗糖糖浆/蔗糖糖浆.md)
-* [炸串酱料](./dishes/condiment/炸串酱料.md)
+* [You Spicy Child](./dishes/condiment/You Spicy Child.md)
+* [garlic soy sauce](./dishes/condiment/garlic soy sauce.md)
+* [Sweet and sour sauce](./dishes/condiment/sweet and sour sauce.md)
+* [Puff pastry](./dishes/condiment/Puff pastry.md)
+* [Fried Candy Color](./dishes/condiment/Candy Color.md)
+* [sucrose syrup](./dishes/condiment/sucrose syrup/sucrose syrup.md)
+* [Kushikatsu Sauce](./dishes/condiment/Kushikatsu Sauce.md)
 
-### 甜品
+### Dessert
 
-* [提拉米苏](./dishes/dessert/提拉米苏/提拉米苏.md)
-* [烤蛋挞](./dishes/dessert/烤蛋挞/烤蛋挞.md)
+* [Tiramisu](./dishes/dessert/tiramisu/tiramisu.md)
+* [Baked egg tart](./dishes/dessert/baked egg tart/baked egg tart.md)
 
-## 进阶知识学习
+## Advanced knowledge learning
 
-如果你已经做了许多上面的菜，对于厨艺已经入门，并且想学习更加高深的烹饪技巧，请继续阅读下面的内容：
+If you have already cooked many of the above dishes, you have already started cooking, and want to learn more advanced cooking skills, please continue reading below:
 
-* [辅料使用技巧](./tips/advanced/辅料技巧.md)
-* [油温判断技巧](./tips/advanced/油温判断技巧.md)
+* [Tips for using accessories](./tips/advanced/Tips for accessories.md)
+* [Oil temperature judgment skills](./tips/advanced/oil temperature judgment skills.md) 
