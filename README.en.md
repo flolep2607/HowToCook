@@ -4,7 +4,7 @@
 
 I've been quarantined at home recently and can't go out. Just stay home and cook. As a programmer, I occasionally look for recipes and how-tos online. However, these recipes are often written in a variety of strange ways, and some materials are often inexplicable in the middle. Extremely unfriendly to programmers accustomed to formal languages.
 
-Therefore, I plan to search for recipes by myself and combine the actual cooking experience to prepare the practice of common dishes with clearer and more accurate descriptions, so as to facilitate programmers to cook at home.
+Therefore, I plan to search for recipes by myself and combine the actual cooking experience to prepare the practice of common dishes with clearer and more precise descriptions, so as to facilitate the programmers to cook at home.
 
 Again, I want it to be an open source project driven and maintained by the community, enabling more people to make a fun repository together. So everyone is very welcome to contribute it~
 
@@ -15,7 +15,7 @@ For the problems found, you can directly modify and submit a Pull request.
 When writing a new recipe, copy and modify an existing recipe template:[Sample dish](https://github.com/Anduin2017/HowToCook/blob/master/dishes/template/%E7%A4%BA%E4%BE%8B%E8%8F%9C/%E7%A4%BA%E4%BE%8B%E8%8F%9C.md?plain=1).
 Update references in README.md before submitting a Pull Request.
 
-## before cooking
+## 做菜之前
 
 -   [Sourcing ingredients, preparing the kitchen](./tips/厨房准备.md)
 -   [Learn to fry and fry](./tips/learn/炒与煎.md)
@@ -55,15 +55,15 @@ Update references in README.md before submitting a Pull Request.
 -   [Spicy Hot Pot](./dishes/home-cooking/麻辣香锅.md)
 -   [Fragrant dried pork](./dishes/home-cooking/香干肉丝.md)
 -   [Fried Pork with Dried Celery](./dishes/home-cooking/香干芹菜炒肉/香干芹菜炒肉.md)
--   [尖椒炒牛肉](./dishes/home-cooking/尖椒炒牛肉.md)
--   [Fried Pork](./dishes/home-cooking/小炒肉.md)
+-   [Stir-fried Beef with Peppers](./dishes/home-cooking/尖椒炒牛肉.md)
+-   [Stir-fried Pork](./dishes/home-cooking/小炒肉.md)
 -   [Cola Chicken Wings](./dishes/home-cooking/可乐鸡翅.md)
 -   [Fried Pork with Onions](./dishes/home-cooking/洋葱炒猪肉.md)
 -   [sauce beef](./dishes/home-cooking/酱牛肉/酱牛肉.md)
 -   [Plasma duck](./dishes/home-cooking/血浆鸭/血浆鸭.md)
 -   [Fried Pork with Cucumber](./dishes/home-cooking/黄瓜炒肉.md)
 -   [cold eating rabbit](./dishes/home-cooking/冷吃兔.md)
--   [Creamy Chicken with Mushrooms](./dishes/home-cooking/香菇滑鸡/香菇滑鸡.md)
+-   [Chicken with Mushrooms](./dishes/home-cooking/香菇滑鸡/香菇滑鸡.md)
 -   [Beef Stew with Tomatoes and Potatoes](./dishes/soup/西红柿土豆炖牛肉/西红柿土豆炖牛肉(腩).md)
 -   [old-fashioned pot meat](./dishes/home-cooking/老式锅包肉/老式锅包肉.md)
 -   [Stir-fried Yellow Beef](./dishes/home-cooking/小炒黄牛肉/小炒黄牛肉.md)
@@ -81,7 +81,7 @@ Update references in README.md before submitting a Pull Request.
 
 -   [Scrambled eggs with tomatoes](./dishes/home-cooking/西红柿炒鸡蛋.md)
 -   [three fresh](./dishes/home-cooking/地三鲜.md)
--   [葱煎豆腐](./dishes/home-cooking/葱煎豆腐.md)
+-   [Fried Tofu with Green Onions](./dishes/home-cooking/葱煎豆腐.md)
 -   [Eggplant and Potato Stew](./dishes/home-cooking/茄子炖土豆.md)
 -   [Stir-fried Pork with Chili](./dishes/home-cooking/辣椒炒肉.md)
 -   [cucumber salad](./dishes/home-cooking/凉拌黄瓜.md)
@@ -94,7 +94,7 @@ Update references in README.md before submitting a Pull Request.
 -   [baby dish in soup](./dishes/home-cooking/上汤娃娃菜/上汤娃娃菜.md)
 -   [Stir-fried vegetables](./dishes/home-cooking/炒青菜.md)
 -   [Tomatoes with sugar](./dishes/home-cooking/糖拌西红柿/糖拌西红柿.md)
--   [Braised Eggplant](./dishes/home-cooking/红烧茄子.md)
+-   [红烧茄子](./dishes/home-cooking/红烧茄子.md)
 -   [jelly](./dishes/home-cooking/凉粉/凉粉.md)
 -   [Fish-flavored eggplant](./dishes/home-cooking/鱼香茄子/鱼香茄子.md)
 
@@ -123,13 +123,13 @@ Update references in README.md before submitting a Pull Request.
 -   [Fried rice noodles](./dishes/staple/炒河粉.md)
 -   [fried noodles](./dishes/staple/炸酱面.md)
 -   [handmade dumplings](./dishes/staple/手工水饺.md)
--   [麻油拌面](./dishes/staple/麻油拌面.md)
+-   [sesame oil noodles](./dishes/staple/麻油拌面.md)
 -   [pizza crust](./dishes/staple/pizza/披萨饼皮.md)
 -   [Hot Noodles with Sesame Paste](./dishes/staple/热干面.md)
 -   [fried bun](./dishes/staple/炒馍.md)
 -   [boiled noodles with egg](./dishes/staple/煮泡面加蛋.md)
--   [老友猪肉粉](./dishes/staple/老友猪肉粉/老友猪肉粉.md)
--   [微波炉腊肠煲仔饭](./dishes/staple/微波炉腊肠煲仔饭/微波炉腊肠煲仔饭.md)
+-   [Old Friend Pork Noodles](./dishes/staple/老友猪肉粉/老友猪肉粉.md)
+-   [Microwave Sausage Claypot Rice](./dishes/staple/微波炉腊肠煲仔饭/微波炉腊肠煲仔饭.md)
 -   [Spicy Fat-Reduced Soba Noodles](./dishes/staple/麻辣减脂荞麦面.md)
 
 ### Semi-finished product processing
@@ -168,8 +168,8 @@ Update references in README.md before submitting a Pull Request.
 -   [Garlic Soy Sauce](./dishes/condiment/蒜香酱油.md)
 -   [sweet and sour sauce](./dishes/condiment/糖醋汁.md)
 -   [pastry](./dishes/condiment/油酥.md)
--   [fried sugar](./dishes/condiment/糖色.md)
--   [sucrose syrup](./dishes/condiment/蔗糖糖浆/蔗糖糖浆.md)
+-   [fried candy color](./dishes/condiment/糖色.md)
+-   [Sucrose Syrup](./dishes/condiment/蔗糖糖浆/蔗糖糖浆.md)
 -   [Kushikatsu sauce](./dishes/condiment/炸串酱料.md)
 
 ### Dessert
@@ -177,7 +177,7 @@ Update references in README.md before submitting a Pull Request.
 -   [Tiramisu](./dishes/dessert/提拉米苏/提拉米苏.md)
 -   [Baked egg tarts](./dishes/dessert/烤蛋挞/烤蛋挞.md)
 
-## Advanced knowledge learning
+## advanced knowledge learning
 
 If you have already cooked many of the above dishes, you have already started cooking, and want to learn more advanced cooking skills, please continue reading below:
 
